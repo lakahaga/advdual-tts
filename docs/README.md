@@ -26,8 +26,8 @@ The content leakage problem in style-transfer text-to-speech (TTS) systems often
 
 
 ### Average Speech Sample
-| Original Speech                    |  Average Speech                                               |   
-|-------------------------------------|-------------------------------------|
-| ![](samples/average/original_mel.png "Original Mel-spectrogram" ) | ![](samples/average/average_mel.png "Average Mel-spectrogram") |
-| <audio src="./samples/average/original.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/average/average.wav" type="audio/wav" controls="" preload=""></audio> | 
 
+| Original Speech                    |  Average Speech                    |   
+|-------------------------------------|-------------------------------------|
+| <img src="samples/average/original_mel.png" alt="Original Mel-spectrogram" width="500"/> | <img src="samples/average/average_mel.png" alt="Average Mel-spectrogram" width="500"/> |
+| <audio src="./samples/average/original.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/average/average.wav" type="audio/wav" controls="" preload=""></audio> | 
