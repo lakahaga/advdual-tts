@@ -6,14 +6,23 @@ The content leakage problem in style-transfer text-to-speech (TTS) systems often
 
 | Reference Speech                                             | VITS-GST                             | AdvDualTTS                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <audio src="./samples/" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/" type="audio/wav" controls="" preload=""></audio> |
+| <audio src="./samples/1/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/1/vits_gst.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/1/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> |
+| <audio src="./samples/2/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/2/vits_gst.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/2/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> |
+| <audio src="./samples/3/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/3/vits_gst.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/3/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> |
+| <audio src="./samples/4/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/4/vits_gst.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/4/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> |
+| <audio src="./samples/5/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/5/vits_gst.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/5/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> |
 
 
 ### Generated Speech Samples
 
 | Reference Speech                                             | AdvDualTTS                         | w/o text-dependent style predictor                                             | w/o style embedding discriminator                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <audio src="./samples/" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/" type="audio/wav" controls="" preload=""></audio> |
+| <audio src="./samples/1/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/1/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/1/wo_text_depend.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/1/wo_text_independ.wav" type="audio/wav" controls="" preload=""></audio> |
+| <audio src="./samples/2/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/2/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/2/wo_text_depend.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/2/wo_text_independ.wav" type="audio/wav" controls="" preload=""></audio> |
+| <audio src="./samples/3/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/3/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/3/wo_text_depend.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/3/wo_text_independ.wav" type="audio/wav" controls="" preload=""></audio> |
+| <audio src="./samples/4/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/4/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/4/wo_text_depend.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/4/wo_text_independ.wav" type="audio/wav" controls="" preload=""></audio> |
+| <audio src="./samples/5/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/5/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/5/wo_text_depend.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/5/wo_text_independ.wav" type="audio/wav" controls="" preload=""></audio> |
+
 
 
 ### Average Speech Sample
