@@ -11,6 +11,10 @@ The content leakage problem in style-transfer text-to-speech (TTS) systems often
 | <audio src="./samples/3/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/3/vits_gst.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/3/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> |
 | <audio src="./samples/4/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/4/vits_gst.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/4/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> |
 | <audio src="./samples/5/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/5/vits_gst.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/5/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> |
+| <audio src="./samples/6/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/6/vits_gst.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/6/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> |
+| <audio src="./samples/7/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/7/vits_gst.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/7/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> |
+| <audio src="./samples/8/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/8/vits_gst.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/8/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> |
+| <audio src="./samples/9/reference.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/9/vits_gst.wav" type="audio/wav" controls="" preload=""></audio> | <audio src="./samples/9/advdualtts.wav" type="audio/wav" controls="" preload=""></audio> |
 
 
 
